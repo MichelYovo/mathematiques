@@ -1,0 +1,5 @@
+{
+  "name": "Calculateur de PGCD Interactif",
+  "description": "Une application web moderne pour calculer le Plus Grand Commun Diviseur (PGCD) en utilisant l'algorithme d'Euclide, avec des explications générées par l'IA.",
+  "requestFramePermissions": []
+}
